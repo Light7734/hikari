@@ -1,19 +1,13 @@
 # Hikari
-<div align="center">
-<img width=25% src="https://github.com/Light7734/Portfolio/raw/main/static/icons/hikari.svg"/>
-<br/>
 
-<i>
-"Software is like sex, it's better when it's free."
-
--Linus Torvalds
-</i>
-</div>
+![1st-book-raytracing-render](/1st-book.png)
 
 ## What's all this?
+
 Hikari (light/shine/ray in japanese) is a raytracer written in Rust using the Vulkan API following the great trio-books on raytracing written by Peter Shirley.
 
 ## Development guide
+
 **Commit syntax follows the** [**_conventional commits specification_**](https://www.conventionalcommits.org/en/v1.0.0/):
 
 ```
@@ -25,19 +19,21 @@ Hikari (light/shine/ray in japanese) is a raytracer written in Rust using the Vu
 ```
 
 **Commit types:**
--   **chapter `<x-y>`: <chapter-title>** Changes that apply **book x**, **chapter y** teachings (x = 1 assumed).
--   **feat:** Changes that add a new feature.
--   **fix:** Changes that fix a bug.
--   **refactor:** Changes that neither fix a bug nor add a feature.
--   **style:** Code changes that don't affect the compiled code.
--   **docs:** Changes to the documentations.
--   **perf:** Changes that improve the code performance.
--   **asset:** Changes to the assets.
--   **wip:** Prefix added to aforementioned commit types to split the change in to multiple commits.
+
+- **chapter `<x-y>`: <chapter-title>** Changes that apply **book x**, **chapter y** teachings (x = 1 assumed).
+- **feat:** Changes that add a new feature.
+- **fix:** Changes that fix a bug.
+- **refactor:** Changes that neither fix a bug nor add a feature.
+- **style:** Code changes that don't affect the compiled code.
+- **docs:** Changes to the documentations.
+- **perf:** Changes that improve the code performance.
+- **asset:** Changes to the assets.
+- **wip:** Prefix added to the said commit types to split the change in to multiple commits.
 
 **Branches:**
--   **main:** main development branch
 
+- **main:** main development branch
 
 ## Contact
-Feel free to HMU anytime on matrix @light7734:matrix.org to chat about programming or whatever. ♥️
+
+Feel free to HMU anytime on discord @light7734 to chat about programming or whatever. ♥️
